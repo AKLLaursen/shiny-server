@@ -1,0 +1,63 @@
+body {
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+  font-weight: 300;
+}
+
+.skin-blue .main-header .logo {
+  background-color: #285f8f;
+}
+
+.skin-blue .main-header .logo:hover {
+  background-color: #285f8f;
+
+}
+
+.skin-blue .main-header .navbar {
+  background-color: #337AB7;
+}
+
+.skin-blue .main-header .navbar .sidebar-toggle:hover {
+  background-color: #285f8f;
+}
+
+.skin-blue .main-sidebar {
+  background-color: #f5f5f5;
+}
+
+.skin-blue .sidebar a {
+  color: black;
+}
+
+.skin-blue .sidebar-menu>li.active>a, .skin-blue .sidebar-menu>li:hover>a {
+  background-color: #e1e1e1;
+  color: black;
+}
+
+.skin-blue .sidebar-menu>li>a {
+  border-left: 0;
+}
+
+.skin-blue .sidebar-menu>li>.treeview-menu {
+  background-color: #ebebeb;
+}
+
+.skin-blue .treeview-menu>li>a {
+  color: black;
+}
+
+.skin-blue .treeview-menu>li.active>a, .skin-blue .treeview-menu>li>a:hover {
+  color: #666666;
+}
+
+.skin-blue .content-wrapper {
+  background-color: #ffffff;
+}
+
+.bg-aqua {
+  background-color: #f5f5f5 !important;
+  color: black !important;
+}
+
+#get_data {
+  margin-top: 25px
+}
